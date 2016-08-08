@@ -1,1 +1,1 @@
-include ':app', ':m1_dialog', ':m2_menu'
+include ':app', ':m1_dialog', ':m2_menu', ':test'
