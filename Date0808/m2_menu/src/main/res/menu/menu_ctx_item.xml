@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/happy1" android:title="开心" />
+    <item android:id="@+id/happy2" android:title="很开心"/>
+    <item android:id="@+id/happy3" android:title="开心炸了"/>
+</menu>

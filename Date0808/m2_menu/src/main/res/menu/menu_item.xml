@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <group android:id="@+id/group1"
+    <group android:id="@+id/food"
         >
-        <item android:id="@+id/item_1"
-            android:title="">item1</item>
+        <item android:id="@+id/apple"
+            android:title="苹果"/>
+        <item android:id="@+id/banana"
+            android:title="香蕉"/>
+    </group>
+    <group android:id="@+id/ice"
+        >
+        <item android:id="@+id/littleIce"
+            android:title="少冰"/>
+        <item android:id="@+id/plusIce"
+            android:title="多冰"/>
     </group>
 </menu>
